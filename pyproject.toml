@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "chess-mcp"
-version = "0.1.3"
+version = "0.1.4"
 description = "A Model Context Protocol server for chess games using Stockfish"
 readme = "README.md"
 requires-python = ">=3.13"
